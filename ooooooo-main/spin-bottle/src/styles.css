@@ -73,7 +73,7 @@
   --table-edge: oklch(0.67 0.112 65);
   --table-browser-theme: #bd813f;
   --table-texture: url("/game-assets/wood.png");
-  --table-top-extension: min(15vw, 115px);
+  --table-top-extension: 0px;
   --message-bottom-space: clamp(24px, 8.6vw, 44px);
   --shop-surface: oklch(0.971 0.017 12);
   --shop-header: oklch(0.702 0.18 23);
@@ -245,7 +245,6 @@ body { position: fixed; inset: 0; width: 100%; }
 .message-bar .gift-control { width: 6.9%; flex: none; }
 .message-bar .send-control { width: 7.55%; flex: none; }
 @media (min-width: 769px) {
-  :root { --table-top-extension: 0px; }
   .bottle-app { margin: 0; }
   .chat-area { min-height: 420px; }
 }

@@ -1,0 +1,1268 @@
+[
+  {
+    "pointer": "src/assets/avatar-default.png.asset.json",
+    "file": "public/game-assets/avatar-default.png",
+    "bytes": 4598,
+    "sha256": "f1788f78b56c68a3343be140faadeb71e2c323f5e3031610c92a7b4c2ed324c4"
+  },
+  {
+    "pointer": "src/assets/avatar-quiet.png.asset.json",
+    "file": "public/game-assets/avatar-quiet.png",
+    "bytes": 15967,
+    "sha256": "57601470fedbc2c981ca6aaf38cb46ed751cc24782c5b0bc411899a2740b09d1"
+  },
+  {
+    "pointer": "src/assets/avatar-woman.png.asset.json",
+    "file": "public/game-assets/avatar-woman.png",
+    "bytes": 16344,
+    "sha256": "70ca04f2f5b736d41144e15a34a20bcba277fbbd1de1035340b89fd2212b9c33"
+  },
+  {
+    "pointer": "src/assets/bottle.png.asset.json",
+    "file": "public/game-assets/bottle.png",
+    "bytes": 53677,
+    "sha256": "eaf3780db4b1c2a8ff1ca2e0aa530aa312e344eacbf3aaa8de437e56f69edf1b"
+  },
+  {
+    "pointer": "src/assets/chest-art.png.asset.json",
+    "file": "public/game-assets/chest-art.png",
+    "bytes": 21898,
+    "sha256": "cd04d79bf9dbf000b68a2bc08f25057b9cd4e6c9b4e9df210cb144b288e7b478"
+  },
+  {
+    "pointer": "src/assets/box-art.png.asset.json",
+    "file": "public/game-assets/box-art.png",
+    "bytes": 18227,
+    "sha256": "b0266156c5bf03013429d2bda840a513fad26f7ea56e9f107a9a3dd7eed98a96"
+  },
+  {
+    "pointer": "src/assets/count.png.asset.json",
+    "file": "public/game-assets/count.png",
+    "bytes": 4022,
+    "sha256": "916465499681584eb411bb7da4979c2703b33e7b58082106d56abf10a32a4ca5"
+  },
+  {
+    "pointer": "src/assets/exit.png.asset.json",
+    "file": "public/game-assets/exit.png",
+    "bytes": 4489,
+    "sha256": "d1cf9f1eb55dbb902b6b7023103c6a3e298559c56a6c35ceeaa0766c5993618a"
+  },
+  {
+    "pointer": "src/assets/gift.png.asset.json",
+    "file": "public/game-assets/gift.png",
+    "bytes": 4320,
+    "sha256": "e467cb93a5aef7c5fd43927300fde343dd85215165e232100a5753d6c2d10ae5"
+  },
+  {
+    "pointer": "src/assets/heart-pattern.png.asset.json",
+    "file": "public/game-assets/heart-pattern.png",
+    "bytes": 9992,
+    "sha256": "1e93594c768e7577bd1b5f622809129869eb5b72b0e34dc31c6d24283c6626e9"
+  },
+  {
+    "pointer": "src/assets/hearts-art.png.asset.json",
+    "file": "public/game-assets/hearts-art.png",
+    "bytes": 17439,
+    "sha256": "95845915ab51dc0a8a2d06cb9bf86b97e3b8616b948b66d1201b688acab47274"
+  },
+  {
+    "pointer": "src/assets/heart.png.asset.json",
+    "file": "public/game-assets/heart.png",
+    "bytes": 7327,
+    "sha256": "8377cc62011b0dce241e0b3013b24fec1a6d9636ae14fde3487bfc24ce9e86de"
+  },
+  {
+    "pointer": "src/assets/menu.png.asset.json",
+    "file": "public/game-assets/menu.png",
+    "bytes": 3705,
+    "sha256": "6961d228f41eb2b7c6cf8092e1b6c447c83abf4c5e74b643272e5bf34a27e244"
+  },
+  {
+    "pointer": "src/assets/music.png.asset.json",
+    "file": "public/game-assets/music.png",
+    "bytes": 6239,
+    "sha256": "e6e613aef9370bf1b03bf2a714f7ffb07b548ea720cbae797a9eef0f359cd70b"
+  },
+  {
+    "pointer": "src/assets/offer-coin.png.asset.json",
+    "file": "public/game-assets/offer-coin.png",
+    "bytes": 3049,
+    "sha256": "990b9e3e40d379b8e02f126ee8cdf25838930e0ce05666dce625410e5cf99326"
+  },
+  {
+    "pointer": "src/assets/offer-heart.png.asset.json",
+    "file": "public/game-assets/offer-heart.png",
+    "bytes": 1786,
+    "sha256": "0be285139c305fab80272f5adb44547c7bdae186492625f519aee1405dbd2b11"
+  },
+  {
+    "pointer": "src/assets/opening-loading.jpg.asset.json",
+    "file": "public/game-assets/opening-loading.jpg",
+    "bytes": 179103,
+    "sha256": "c6abc1802507a4073b63f387c80638012c81ebdd297a1ad0d3d8f7df7dcb439f"
+  },
+  {
+    "pointer": "src/assets/opening-logo.jpg.asset.json",
+    "file": "public/game-assets/opening-logo.jpg",
+    "bytes": 239010,
+    "sha256": "fbf1bba1d7a74f68ca601450a4759653285b52debe71febf18eddace05fe6bcb"
+  },
+  {
+    "pointer": "src/assets/player-anastasia.webp.asset.json",
+    "file": "public/game-assets/player-anastasia.webp",
+    "bytes": 4080,
+    "sha256": "c78004f93a1fece04aa8c8469baffee733f3b56ebe93aec436e8559dc0d47245"
+  },
+  {
+    "pointer": "src/assets/player-egor.webp.asset.json",
+    "file": "public/game-assets/player-egor.webp",
+    "bytes": 570,
+    "sha256": "2f230cf92e57f374f7ec9e0d7733394148bcd56bb23c4478537d1a703160db8c"
+  },
+  {
+    "pointer": "src/assets/player-ekaterina.webp.asset.json",
+    "file": "public/game-assets/player-ekaterina.webp",
+    "bytes": 3188,
+    "sha256": "751958fe74ce417ef18023dfefda83400442c0ed8a690b3be68d50814cdcec4e"
+  },
+  {
+    "pointer": "src/assets/player-lenya.webp.asset.json",
+    "file": "public/game-assets/player-lenya.webp",
+    "bytes": 2864,
+    "sha256": "176b7867c2b331d076e9dcdb6c2a73a12a9e5e50a4fbf77bfaa43b5992d7fa32"
+  },
+  {
+    "pointer": "src/assets/player-liza.webp.asset.json",
+    "file": "public/game-assets/player-liza.webp",
+    "bytes": 3204,
+    "sha256": "1fbe3c83b9f2c7df813eabd2c0bd7bbfdc6524408d26bfa143302da1a38974c4"
+  },
+  {
+    "pointer": "src/assets/player-misha.webp.asset.json",
+    "file": "public/game-assets/player-misha.webp",
+    "bytes": 3088,
+    "sha256": "317728edabb07632e6cd8c68b7f5023d44089624c6bfa7ba5da8156947d0f2f3"
+  },
+  {
+    "pointer": "src/assets/player-natalya.webp.asset.json",
+    "file": "public/game-assets/player-natalya.webp",
+    "bytes": 2870,
+    "sha256": "cebd6a1b0ee3cc74fda0f07b9ffe335beefeace21686fc5e7fd8b7c580d43345"
+  },
+  {
+    "pointer": "src/assets/player-sergey.webp.asset.json",
+    "file": "public/game-assets/player-sergey.webp",
+    "bytes": 2082,
+    "sha256": "6eaa59b912189313d14d19a9b50b890c41f59866fedbdc019adff574a6c2fcaf"
+  },
+  {
+    "pointer": "src/assets/player-timur.webp.asset.json",
+    "file": "public/game-assets/player-timur.webp",
+    "bytes": 2574,
+    "sha256": "ffa85b86f1145abcaffa5ae096af3a95d1f8e3703f34efe8311b9f818f752d53"
+  },
+  {
+    "pointer": "src/assets/pot-art.png.asset.json",
+    "file": "public/game-assets/pot-art.png",
+    "bytes": 22100,
+    "sha256": "6581674a536878ec2bd7782fad26507baf756a7132a32f3bcc1f17049f739b8f"
+  },
+  {
+    "pointer": "src/assets/puzzle.png.asset.json",
+    "file": "public/game-assets/puzzle.png",
+    "bytes": 3346,
+    "sha256": "aafca9d8fb57d6f0457fc7049f07e175f377f46e4a56fb228d1e0362db32cfeb"
+  },
+  {
+    "pointer": "src/assets/send.png.asset.json",
+    "file": "public/game-assets/send.png",
+    "bytes": 4387,
+    "sha256": "084bc0149e1ed6492d73a3dd91bf73da6d687080a9cd74667a92e269dc08297d"
+  },
+  {
+    "pointer": "src/assets/sack-art.png.asset.json",
+    "file": "public/game-assets/sack-art.png",
+    "bytes": 20401,
+    "sha256": "c4309c8efd6a4c3656aaeb0cceb860cc140715cee1d53c0acc93814bc6cd4180"
+  },
+  {
+    "pointer": "src/assets/rabbit-art.png.asset.json",
+    "file": "public/game-assets/rabbit-art.png",
+    "bytes": 19116,
+    "sha256": "224fca6bf3e48d39f681caf2e568ef30047cc5980b6664fbf45a04e990fc73a2"
+  },
+  {
+    "pointer": "src/assets/trophy.png.asset.json",
+    "file": "public/game-assets/trophy.png",
+    "bytes": 2577,
+    "sha256": "8a77b87d3736a0071e42110f9c15aa5c53b19722b22bd722a6d8bf7a0e9d8ffe"
+  },
+  {
+    "pointer": "src/assets/settings.png.asset.json",
+    "file": "public/game-assets/settings.png",
+    "bytes": 5821,
+    "sha256": "4edf446bd1d9fdc095950656c7e50c6bf3e5c66115ed0c55c2595db23ea20b7e"
+  },
+  {
+    "pointer": "src/assets/video-music-close.png.asset.json",
+    "file": "public/game-assets/video-music-close.png",
+    "bytes": 3174,
+    "sha256": "2130728746be8a6752d4562fe7de63349705ccc425045b7bfb5c97adaebda78d"
+  },
+  {
+    "pointer": "src/assets/video-music-favorites.png.asset.json",
+    "file": "public/game-assets/video-music-favorites.png",
+    "bytes": 2383,
+    "sha256": "e2840e04f1000e6f31cb3811f3da520955e328d3d1a9dfd11be7f579cf5a2a98"
+  },
+  {
+    "pointer": "src/assets/video-music-popular.png.asset.json",
+    "file": "public/game-assets/video-music-popular.png",
+    "bytes": 5607,
+    "sha256": "4d66f421d9715bceef6fdda92c4408bb1795871572c1d0a4a42595bf44e6cdd1"
+  },
+  {
+    "pointer": "src/assets/video-music-recent-active.png.asset.json",
+    "file": "public/game-assets/video-music-recent-active.png",
+    "bytes": 97,
+    "sha256": "ee941c5cee1376d4946c77a5432fc3208f3d071de5968360d8610a5a4787b4e9"
+  },
+  {
+    "pointer": "src/assets/video-music-recent.png.asset.json",
+    "file": "public/game-assets/video-music-recent.png",
+    "bytes": 3725,
+    "sha256": "c14f1eac4fd230e2956edd0454960ce047050328b11021ae41f7212108105113"
+  },
+  {
+    "pointer": "src/assets/video-music-search-active.png.asset.json",
+    "file": "public/game-assets/video-music-search-active.png",
+    "bytes": 6432,
+    "sha256": "6582b313afc3f3fb1eaefbc4b14ca1e8bb20234fbf772f7fb7254a0a6d83834c"
+  },
+  {
+    "pointer": "src/assets/video-music-search.png.asset.json",
+    "file": "public/game-assets/video-music-search.png",
+    "bytes": 3606,
+    "sha256": "9c9ce791add526e348cd99d7fd709b00c0892ebff9704d2010734f0cfaa7e524"
+  },
+  {
+    "pointer": "src/assets/video-music-source-switch.jpg.asset.json",
+    "file": "public/game-assets/video-music-source-switch.jpg",
+    "bytes": 2462,
+    "sha256": "b702039013dc3adcb1dcf15382214beaefafde6f305a523ee6a9d8a1d17f82df"
+  },
+  {
+    "pointer": "src/assets/wood.png.asset.json",
+    "file": "public/game-assets/wood.png",
+    "bytes": 527961,
+    "sha256": "78f5713e2cf07b5a733fb3d046d02edb87e119cb9765690ea53fe46d998c27d9"
+  },
+  {
+    "pointer": "src/assets/vip-art.png.asset.json",
+    "file": "public/game-assets/vip-art.png",
+    "bytes": 18397,
+    "sha256": "b697d580d158c2de879a0e49344bbd49ce9034bd3d2e59de0fa3c0eb65f0c933"
+  },
+  {
+    "pointer": "src/assets/video.png.asset.json",
+    "file": "public/game-assets/video.png",
+    "bytes": 6297,
+    "sha256": "5032581a897e02e5c783142445c2b93325d875685d7ccc765627f17681a67f3c"
+  },
+  {
+    "pointer": "src/assets/profile-kiss.png.asset.json",
+    "file": "public/game-assets/profile-kiss.png",
+    "bytes": 6969,
+    "sha256": "86ee87458439e85cae7a60986926e12193102fbc4a6a8bb1b48e481980c01654"
+  },
+  {
+    "pointer": "src/assets/profile-reference-photo.png.asset.json",
+    "file": "public/game-assets/profile-reference-photo.png",
+    "bytes": 494753,
+    "sha256": "8965fb9f3eccd38791e2a56562b22857bdd3cf40844309022a3c48ed916c4dff"
+  },
+  {
+    "pointer": "src/assets/profile-admirer.png.asset.json",
+    "file": "public/game-assets/profile-admirer.png",
+    "bytes": 55569,
+    "sha256": "88e899a2a395a23fa48fc1f8ecf97aaa8d522fef0586f8c651596478298387ec"
+  },
+  {
+    "pointer": "src/assets/profile-action-3.png.asset.json",
+    "file": "public/game-assets/profile-action-3.png",
+    "bytes": 15737,
+    "sha256": "5423dd2afdf4499b5bcd606108e4a269a537bd041813f7498aa5a8c6548f8652"
+  },
+  {
+    "pointer": "src/assets/profile-smile.png.asset.json",
+    "file": "public/game-assets/profile-smile.png",
+    "bytes": 4035,
+    "sha256": "90841c0da89ec0601b12b0ba6b98e9363e19ea8a5ed165f3c2868df87ad7dd2e"
+  },
+  {
+    "pointer": "src/assets/profile-action-4.png.asset.json",
+    "file": "public/game-assets/profile-action-4.png",
+    "bytes": 10755,
+    "sha256": "3046ed78b0f9968cdda25b2441ab99225bcb28eae2b1a64831620d0fee4f6c7a"
+  },
+  {
+    "pointer": "src/assets/profile-action-1.png.asset.json",
+    "file": "public/game-assets/profile-action-1.png",
+    "bytes": 8766,
+    "sha256": "6699fa7ba2d1c8045fe6d63db9e791a8883a23354c45c6b8c961ee652bb3e783"
+  },
+  {
+    "pointer": "src/assets/gift-001.png.asset.json",
+    "file": "public/game-assets/gift-001.png",
+    "bytes": 31142,
+    "sha256": "48ff8f681f5298274a0b360b5e105744840e031a5761668f38b546a14a20131a"
+  },
+  {
+    "pointer": "src/assets/profile-heart.png.asset.json",
+    "file": "public/game-assets/profile-heart.png",
+    "bytes": 3157,
+    "sha256": "0e86d07df22d8ea40293693844ceadafa97fa9bbf47ba317b3afc7c15737e645"
+  },
+  {
+    "pointer": "src/assets/gift-002.png.asset.json",
+    "file": "public/game-assets/gift-002.png",
+    "bytes": 33397,
+    "sha256": "9b9f2b3a086cd8610621b9c5b22c0c830a16fa5929b182ae44b7224e9549cd3f"
+  },
+  {
+    "pointer": "src/assets/profile-action-0.png.asset.json",
+    "file": "public/game-assets/profile-action-0.png",
+    "bytes": 17605,
+    "sha256": "3acc91e81239f36bab8ff0ce65d3fbd6a4b3344da3bf91ce5ad45394a52d39a2"
+  },
+  {
+    "pointer": "src/assets/profile-action-2.png.asset.json",
+    "file": "public/game-assets/profile-action-2.png",
+    "bytes": 12858,
+    "sha256": "f65ef37b0874d125658ca9bee3ce30fcfca61f500ad59dfd449bf6cbf62733dc"
+  },
+  {
+    "pointer": "src/assets/profile-hearts.png.asset.json",
+    "file": "public/game-assets/profile-hearts.png",
+    "bytes": 4121,
+    "sha256": "f8dd836e786a4bac21a223eee54436d34b2046c05813622cc0496b137e1197bf"
+  },
+  {
+    "pointer": "src/assets/gift-000.png.asset.json",
+    "file": "public/game-assets/gift-000.png",
+    "bytes": 15175,
+    "sha256": "d17bc366f1574222ed7cb63e8ee3489f82d7316bd099c3ee1b0632b6322ed8c9"
+  },
+  {
+    "pointer": "src/assets/profile-note.png.asset.json",
+    "file": "public/game-assets/profile-note.png",
+    "bytes": 2912,
+    "sha256": "8b30a2d53cbd386ae11a76855a5ea82ca1ad09b981827bcb4b5de6a877f2d55d"
+  },
+  {
+    "pointer": "src/assets/gift-011.png.asset.json",
+    "file": "public/game-assets/gift-011.png",
+    "bytes": 18547,
+    "sha256": "9959927911436baa6f7101fec290945acdd00c53f935f4b16095f936f5156b53"
+  },
+  {
+    "pointer": "src/assets/gift-010.png.asset.json",
+    "file": "public/game-assets/gift-010.png",
+    "bytes": 33401,
+    "sha256": "b11d3d7b017995ec4ab4945c6ca2e55e992ac89e349b3e855773340355e08b4c"
+  },
+  {
+    "pointer": "src/assets/gift-009.png.asset.json",
+    "file": "public/game-assets/gift-009.png",
+    "bytes": 39214,
+    "sha256": "fb1c14945d0bc59fd12bcf4e2f73d1ea93436d18d10c5eb49cba7b3f57cdc122"
+  },
+  {
+    "pointer": "src/assets/gift-014.png.asset.json",
+    "file": "public/game-assets/gift-014.png",
+    "bytes": 32147,
+    "sha256": "db4a6f199a47c6d6db183adbd70996b10428222407444bb47b3de1499693225f"
+  },
+  {
+    "pointer": "src/assets/gift-004.png.asset.json",
+    "file": "public/game-assets/gift-004.png",
+    "bytes": 36219,
+    "sha256": "e01aaee2eba3f04c0efc65a9568de70e2b7d57dacaa5989de0d4d730fc2763c0"
+  },
+  {
+    "pointer": "src/assets/gift-003.png.asset.json",
+    "file": "public/game-assets/gift-003.png",
+    "bytes": 39658,
+    "sha256": "baab0af630cf95f38dfaff2e20a28d3e39570c76e0c18addb02854435c984362"
+  },
+  {
+    "pointer": "src/assets/gift-008.png.asset.json",
+    "file": "public/game-assets/gift-008.png",
+    "bytes": 35773,
+    "sha256": "6f52ff7ff815098e2e7e330845c112e9255f361dee8fc757dedc450eaba7fce2"
+  },
+  {
+    "pointer": "src/assets/gift-007.png.asset.json",
+    "file": "public/game-assets/gift-007.png",
+    "bytes": 25584,
+    "sha256": "0a569cf912be44e9b48aeaa5dc3c6e7e15002b1302bdc5d4c9dfb82dca591e7b"
+  },
+  {
+    "pointer": "src/assets/gift-006.png.asset.json",
+    "file": "public/game-assets/gift-006.png",
+    "bytes": 30214,
+    "sha256": "538578e8ac28e5e3e0b73535df1423c591768611be34a194cc055666291c8d78"
+  },
+  {
+    "pointer": "src/assets/gift-013.png.asset.json",
+    "file": "public/game-assets/gift-013.png",
+    "bytes": 38050,
+    "sha256": "ea44fd6a0400b394bc88f132423cee2bf318ad331381aff09ec9c0b45b7effa3"
+  },
+  {
+    "pointer": "src/assets/gift-005.png.asset.json",
+    "file": "public/game-assets/gift-005.png",
+    "bytes": 28730,
+    "sha256": "863ef6561aaa19e4c5049f00e84cfa095cdcc20177def1d1158aec95c12dd79f"
+  },
+  {
+    "pointer": "src/assets/gift-012.png.asset.json",
+    "file": "public/game-assets/gift-012.png",
+    "bytes": 28069,
+    "sha256": "beb828156ef0b5b23f689c875870de601db5b064277847c8b6546636259ef05a"
+  },
+  {
+    "pointer": "src/assets/gift-019.png.asset.json",
+    "file": "public/game-assets/gift-019.png",
+    "bytes": 34135,
+    "sha256": "95f7ae9837ceb5eb9f5583d8dfbe5c1d48d83b4d4461aae73ec74f749de9962d"
+  },
+  {
+    "pointer": "src/assets/gift-018.png.asset.json",
+    "file": "public/game-assets/gift-018.png",
+    "bytes": 37106,
+    "sha256": "ef8184c35df5b01642681587165cf0c5d0943ee478de94fddb8f2ef2c2e3baee"
+  },
+  {
+    "pointer": "src/assets/gift-026.png.asset.json",
+    "file": "public/game-assets/gift-026.png",
+    "bytes": 18674,
+    "sha256": "4bd153bbb937389d6725d3e8ace3c86d6ca6afb01d5a03160c9fc055cbab881f"
+  },
+  {
+    "pointer": "src/assets/gift-022.png.asset.json",
+    "file": "public/game-assets/gift-022.png",
+    "bytes": 23901,
+    "sha256": "b0f702513a6e22c4401e28f57b1952cf408f6041bd9e3b3da9c0a3ea2d7f8538"
+  },
+  {
+    "pointer": "src/assets/gift-015.png.asset.json",
+    "file": "public/game-assets/gift-015.png",
+    "bytes": 14868,
+    "sha256": "9594d8cad7171b7c68cb888f99830cde4d522ddea13f83dd4fc537b76fda6d87"
+  },
+  {
+    "pointer": "src/assets/gift-023.png.asset.json",
+    "file": "public/game-assets/gift-023.png",
+    "bytes": 35045,
+    "sha256": "ff499612cf8769b95e3c9fe289278b2cbac21166e196725a07dfbafced1193b5"
+  },
+  {
+    "pointer": "src/assets/gift-020.png.asset.json",
+    "file": "public/game-assets/gift-020.png",
+    "bytes": 28803,
+    "sha256": "c69fcf76061ba049bc8446a104b6a1f30e46a195aa89b480d8904ab6fdf883e7"
+  },
+  {
+    "pointer": "src/assets/gift-017.png.asset.json",
+    "file": "public/game-assets/gift-017.png",
+    "bytes": 33043,
+    "sha256": "463e02bb1ec5e9e688dc37777be6cd1de1e30f0fea76251f37e1e4d8cff07346"
+  },
+  {
+    "pointer": "src/assets/gift-024.png.asset.json",
+    "file": "public/game-assets/gift-024.png",
+    "bytes": 35952,
+    "sha256": "ae63961cd051a5cfa59a06ed5306ea5134f9a1bf5747da9c01ce84f6ff9370de"
+  },
+  {
+    "pointer": "src/assets/gift-016.png.asset.json",
+    "file": "public/game-assets/gift-016.png",
+    "bytes": 29892,
+    "sha256": "8f20719c654355ca6c32e24b41ebf3da521297b7436cd13d17141fa2ebb947c9"
+  },
+  {
+    "pointer": "src/assets/gift-025.png.asset.json",
+    "file": "public/game-assets/gift-025.png",
+    "bytes": 30740,
+    "sha256": "0491ead1a1185c80921f57b8dbba8354168217d2a06958639b6f4c35453cff28"
+  },
+  {
+    "pointer": "src/assets/gift-021.png.asset.json",
+    "file": "public/game-assets/gift-021.png",
+    "bytes": 27834,
+    "sha256": "72d2c18fcbfea24677e7cbef127133275d4d5f4fbb7b90c4bf98c313fa0fa6c6"
+  },
+  {
+    "pointer": "src/assets/gift-036.png.asset.json",
+    "file": "public/game-assets/gift-036.png",
+    "bytes": 15168,
+    "sha256": "2f739fa4c1649d773e9850504843cd93d53a9b7b0d210cdf91735a3b33548b6f"
+  },
+  {
+    "pointer": "src/assets/gift-033.png.asset.json",
+    "file": "public/game-assets/gift-033.png",
+    "bytes": 22044,
+    "sha256": "56ed797ad053db330dbd19d0fbf5c9cad12abc01c8203fc5cc4aacf127c8498f"
+  },
+  {
+    "pointer": "src/assets/gift-029.png.asset.json",
+    "file": "public/game-assets/gift-029.png",
+    "bytes": 28319,
+    "sha256": "e548405b5f863734d70fbf1d220a5a768d3f0ca38d6011f7fd0a778c2cb20352"
+  },
+  {
+    "pointer": "src/assets/gift-037.png.asset.json",
+    "file": "public/game-assets/gift-037.png",
+    "bytes": 13104,
+    "sha256": "0ea9d60dc0e8585a607a8077fae3683c1271760a9c669ae9c33139a3e8b0adf8"
+  },
+  {
+    "pointer": "src/assets/gift-034.png.asset.json",
+    "file": "public/game-assets/gift-034.png",
+    "bytes": 25870,
+    "sha256": "5aac741821cd6b218b7bd63b299db5e52e02743a827db35d15e81ba2bd4b26c9"
+  },
+  {
+    "pointer": "src/assets/gift-028.png.asset.json",
+    "file": "public/game-assets/gift-028.png",
+    "bytes": 34517,
+    "sha256": "8433138ca8b6e5d0997dafb953fd54e42242fa26af09ac41b24a7612407969b7"
+  },
+  {
+    "pointer": "src/assets/gift-031.png.asset.json",
+    "file": "public/game-assets/gift-031.png",
+    "bytes": 31821,
+    "sha256": "bc9b8a3f84813c33221b5554b4598656d9f904628a1e5e3048c80341a0180470"
+  },
+  {
+    "pointer": "src/assets/gift-032.png.asset.json",
+    "file": "public/game-assets/gift-032.png",
+    "bytes": 24502,
+    "sha256": "82d8c2ef3d5b8863ddd86b55bafe17affd3864603d59cbd34b38831cb36615cc"
+  },
+  {
+    "pointer": "src/assets/gift-038.png.asset.json",
+    "file": "public/game-assets/gift-038.png",
+    "bytes": 27034,
+    "sha256": "22954f70018638609382bc721cedb7b6c9fb5ef8e566b1f3b00eb7556308bd55"
+  },
+  {
+    "pointer": "src/assets/gift-030.png.asset.json",
+    "file": "public/game-assets/gift-030.png",
+    "bytes": 24332,
+    "sha256": "16e388ca6e31cd11b0c6944e2a90751360592002dabd7fd6daf7dd090b7f5c5a"
+  },
+  {
+    "pointer": "src/assets/gift-035.png.asset.json",
+    "file": "public/game-assets/gift-035.png",
+    "bytes": 30844,
+    "sha256": "b9dcb60321d35d01e1599158c826ae9dcfb759784eea93f1b87acc26c85812de"
+  },
+  {
+    "pointer": "src/assets/gift-027.png.asset.json",
+    "file": "public/game-assets/gift-027.png",
+    "bytes": 26949,
+    "sha256": "32edc89bbcdfdb38e537116ecd1b23db4b5b432f781a5b84c5cf4b2f89cf7574"
+  },
+  {
+    "pointer": "src/assets/gift-040.png.asset.json",
+    "file": "public/game-assets/gift-040.png",
+    "bytes": 18549,
+    "sha256": "95ce923d5efd527542d896a6361afbe252bde47bb01b32666452f5564f566981"
+  },
+  {
+    "pointer": "src/assets/gift-042.png.asset.json",
+    "file": "public/game-assets/gift-042.png",
+    "bytes": 11255,
+    "sha256": "d25f50bd9ca978426056272584102a51e2c9e9ca1ed1311ae43bbee8e9498d12"
+  },
+  {
+    "pointer": "src/assets/gift-046.png.asset.json",
+    "file": "public/game-assets/gift-046.png",
+    "bytes": 10079,
+    "sha256": "f615c076ff198c2656624cbe52aaaed445ca971a35f7077e131188c9d8efb64e"
+  },
+  {
+    "pointer": "src/assets/gift-043.png.asset.json",
+    "file": "public/game-assets/gift-043.png",
+    "bytes": 27606,
+    "sha256": "0ea8028d456d72d182dc09a3fa8a3c54af7296b70e7fbe30678b27c81ce2e479"
+  },
+  {
+    "pointer": "src/assets/gift-048.png.asset.json",
+    "file": "public/game-assets/gift-048.png",
+    "bytes": 7296,
+    "sha256": "5b77afa57b38a911cdc6753f8c848c09e2d29303a1ec357ea07dbf3f9650c041"
+  },
+  {
+    "pointer": "src/assets/gift-047.png.asset.json",
+    "file": "public/game-assets/gift-047.png",
+    "bytes": 7944,
+    "sha256": "4fddec2e67cda922e18510257d7624a27e4dc22eb7789a7145a341d4926c21e0"
+  },
+  {
+    "pointer": "src/assets/gift-039.png.asset.json",
+    "file": "public/game-assets/gift-039.png",
+    "bytes": 26652,
+    "sha256": "44920dac44197fd36e5023c9e56157d05886a4a2d6fd1a1df267896c7b944de0"
+  },
+  {
+    "pointer": "src/assets/gift-044.png.asset.json",
+    "file": "public/game-assets/gift-044.png",
+    "bytes": 16512,
+    "sha256": "b5cf25fdc9c9970182f76573944778f3e698d147b678c9118fcb20ff93ccd850"
+  },
+  {
+    "pointer": "src/assets/gift-041.png.asset.json",
+    "file": "public/game-assets/gift-041.png",
+    "bytes": 24899,
+    "sha256": "e3c54b190e4894179d17bfd3de15a1c0fdb5ba2a71b8043b86a1b08fb5e24a80"
+  },
+  {
+    "pointer": "src/assets/gift-045.png.asset.json",
+    "file": "public/game-assets/gift-045.png",
+    "bytes": 5975,
+    "sha256": "fff96182fd8af89136c83f3468dcf6a4f9120282d5fcc41bbd90222c461799aa"
+  },
+  {
+    "pointer": "src/assets/gift-049.png.asset.json",
+    "file": "public/game-assets/gift-049.png",
+    "bytes": 8069,
+    "sha256": "b80680c12dffb8cdcdcbbe89a6b28e615088d21e6caab207a6c9f7c3d31f6b94"
+  },
+  {
+    "pointer": "src/assets/gift-050.png.asset.json",
+    "file": "public/game-assets/gift-050.png",
+    "bytes": 4965,
+    "sha256": "207ae0da05fe850e51843177a998b5d857f37c6f8386c59848c1709bf67b5e7e"
+  },
+  {
+    "pointer": "src/assets/gift-054.png.asset.json",
+    "file": "public/game-assets/gift-054.png",
+    "bytes": 5481,
+    "sha256": "e361552b730c51df1c87c2aaeeb09e634a2b51d165bbeceab0bedd72265911cf"
+  },
+  {
+    "pointer": "src/assets/gift-055.png.asset.json",
+    "file": "public/game-assets/gift-055.png",
+    "bytes": 10799,
+    "sha256": "6e72c30ab877f9c5eb06d73aae51c13b3355d6284b2ed42f2682d61e4b7448b5"
+  },
+  {
+    "pointer": "src/assets/gift-059.png.asset.json",
+    "file": "public/game-assets/gift-059.png",
+    "bytes": 9796,
+    "sha256": "3d4bdbf7aee87a7466d6b2edbbc1baf261923ff4ba3cfa53502a01fd3e2bcbd2"
+  },
+  {
+    "pointer": "src/assets/gift-052.png.asset.json",
+    "file": "public/game-assets/gift-052.png",
+    "bytes": 5629,
+    "sha256": "07a4e5edac701ca1f76789e27524a7aad3a7e4f67fc39cdce3d37b405026b303"
+  },
+  {
+    "pointer": "src/assets/gift-060.png.asset.json",
+    "file": "public/game-assets/gift-060.png",
+    "bytes": 27283,
+    "sha256": "b2ff1d576c4d55724cffd8a977a8ad24cf160ac0acfcd0d7ffb4cbd741a4eea2"
+  },
+  {
+    "pointer": "src/assets/gift-058.png.asset.json",
+    "file": "public/game-assets/gift-058.png",
+    "bytes": 9084,
+    "sha256": "d9964d5847a52dcc09366b33bf46930d41a7b8fc4d79f787f04f64280879e943"
+  },
+  {
+    "pointer": "src/assets/gift-057.png.asset.json",
+    "file": "public/game-assets/gift-057.png",
+    "bytes": 13645,
+    "sha256": "40f41ef76fadf47dedbb06f13d30dd7b3e5cdd84d361d2908cf1f7105555b782"
+  },
+  {
+    "pointer": "src/assets/gift-053.png.asset.json",
+    "file": "public/game-assets/gift-053.png",
+    "bytes": 7796,
+    "sha256": "daf6805dbd8e670cfa67a2c9bdfaaa98991964fb7bf574ef95668a8c3c52c408"
+  },
+  {
+    "pointer": "src/assets/gift-056.png.asset.json",
+    "file": "public/game-assets/gift-056.png",
+    "bytes": 8364,
+    "sha256": "d3df4677845f023602bc5c8ea75743c233794b847e7ad4928496cc61ada1d734"
+  },
+  {
+    "pointer": "src/assets/gift-062.png.asset.json",
+    "file": "public/game-assets/gift-062.png",
+    "bytes": 11822,
+    "sha256": "c9c0cd95d8a98aacf1de6da87f1af0f4da226b44cc05d67b3224cbf2499c1dc4"
+  },
+  {
+    "pointer": "src/assets/gift-061.png.asset.json",
+    "file": "public/game-assets/gift-061.png",
+    "bytes": 12479,
+    "sha256": "db6ff10dc4eff6d9530a238ab70e8e31acd45a22707d8b5f72d17eb3113ab5ad"
+  },
+  {
+    "pointer": "src/assets/gift-051.png.asset.json",
+    "file": "public/game-assets/gift-051.png",
+    "bytes": 5990,
+    "sha256": "c73b8c12bd0815fef586787334813cffaee633a38291c2c14a22f6806b957216"
+  },
+  {
+    "pointer": "src/assets/gift-064.png.asset.json",
+    "file": "public/game-assets/gift-064.png",
+    "bytes": 9955,
+    "sha256": "b731fa879a405d187f4c8481cd383b700900e0c72642d58af757bb61d33e4fa5"
+  },
+  {
+    "pointer": "src/assets/gift-073.png.asset.json",
+    "file": "public/game-assets/gift-073.png",
+    "bytes": 16400,
+    "sha256": "8f4688706bf8deecdcfc6824bfcc8f897a54ceeeb65a6259f3fc6c128c87b09b"
+  },
+  {
+    "pointer": "src/assets/gift-068.png.asset.json",
+    "file": "public/game-assets/gift-068.png",
+    "bytes": 24412,
+    "sha256": "75711995fa641658a696d0e3d751f5acd40bc6a608c1c47e35d21e8c31b68bdf"
+  },
+  {
+    "pointer": "src/assets/gift-063.png.asset.json",
+    "file": "public/game-assets/gift-063.png",
+    "bytes": 19524,
+    "sha256": "5505bb6c7fc75c2babeabcb8ccc65b3cd13628d8120fa659f51185961434b36d"
+  },
+  {
+    "pointer": "src/assets/gift-072.png.asset.json",
+    "file": "public/game-assets/gift-072.png",
+    "bytes": 19603,
+    "sha256": "2c51cf363b5c03417b43c497865affa464aae6029c84f7c4ce31053831895b8b"
+  },
+  {
+    "pointer": "src/assets/gift-065.png.asset.json",
+    "file": "public/game-assets/gift-065.png",
+    "bytes": 16387,
+    "sha256": "66db842416714059efb91137dca446834e6bc6986161d88f6d5fd155ab8d3f8e"
+  },
+  {
+    "pointer": "src/assets/gift-070.png.asset.json",
+    "file": "public/game-assets/gift-070.png",
+    "bytes": 23160,
+    "sha256": "4d46f318d4c9d142e35ccc206c6fb4e9f405002d6947c07c3c4e5d65ae87df62"
+  },
+  {
+    "pointer": "src/assets/gift-069.png.asset.json",
+    "file": "public/game-assets/gift-069.png",
+    "bytes": 26244,
+    "sha256": "59dcdec4225b68aa93e5ec3c0028be9588c7dcc0b215ad7110b02db933515f46"
+  },
+  {
+    "pointer": "src/assets/gift-074.png.asset.json",
+    "file": "public/game-assets/gift-074.png",
+    "bytes": 19537,
+    "sha256": "14daf25d160b4cf1d70a468f7acb9f4b4ae92eb76fd5813168606702455f42f9"
+  },
+  {
+    "pointer": "src/assets/gift-071.png.asset.json",
+    "file": "public/game-assets/gift-071.png",
+    "bytes": 13825,
+    "sha256": "0fa4c094a3613558fa6d9954299671465be82196590f2c674ef36686f54b5105"
+  },
+  {
+    "pointer": "src/assets/gift-066.png.asset.json",
+    "file": "public/game-assets/gift-066.png",
+    "bytes": 18621,
+    "sha256": "1d5779f12e0cc7c59426e71f3aa6da0d9ca2978a5d73864911b41609a0772492"
+  },
+  {
+    "pointer": "src/assets/gift-067.png.asset.json",
+    "file": "public/game-assets/gift-067.png",
+    "bytes": 22887,
+    "sha256": "bec77258892bf6d58a4777e28f39ae93cc385a09878540e1e348b47c53485737"
+  },
+  {
+    "pointer": "src/assets/gift-079.png.asset.json",
+    "file": "public/game-assets/gift-079.png",
+    "bytes": 16198,
+    "sha256": "6e0b852cacea6aad5991700ec1da1c9e71d9bb02874d2c86fc1ecad89fc39c6a"
+  },
+  {
+    "pointer": "src/assets/gift-082.png.asset.json",
+    "file": "public/game-assets/gift-082.png",
+    "bytes": 14559,
+    "sha256": "bfa03e40e2434fd9f4d5f92b8c57a69ef9d7782b14eb70a121672f45374cebdf"
+  },
+  {
+    "pointer": "src/assets/gift-076.png.asset.json",
+    "file": "public/game-assets/gift-076.png",
+    "bytes": 22757,
+    "sha256": "130b749ecd01a499c89bda0f74d34841231fdfadb48465efb33721c7fe6a918c"
+  },
+  {
+    "pointer": "src/assets/gift-084.png.asset.json",
+    "file": "public/game-assets/gift-084.png",
+    "bytes": 15658,
+    "sha256": "6d523372354007e5a1b7f9148befdf223e9ccf9f4c0d47267aef0a26cc0e9839"
+  },
+  {
+    "pointer": "src/assets/gift-080.png.asset.json",
+    "file": "public/game-assets/gift-080.png",
+    "bytes": 17212,
+    "sha256": "2907cea2d658e9f73132f38add44f07350e1adcce1dde825fb0eb40b9042cb87"
+  },
+  {
+    "pointer": "src/assets/gift-077.png.asset.json",
+    "file": "public/game-assets/gift-077.png",
+    "bytes": 14395,
+    "sha256": "3223f4a493855dcaddcbf6dcb0897ec12c92c593498d5aa9b70a2874441a6291"
+  },
+  {
+    "pointer": "src/assets/gift-078.png.asset.json",
+    "file": "public/game-assets/gift-078.png",
+    "bytes": 18868,
+    "sha256": "1b4ae25a04c0a4bf2368a0e217084a8d4541a58cf822ae51345fe10f218fed22"
+  },
+  {
+    "pointer": "src/assets/gift-085.png.asset.json",
+    "file": "public/game-assets/gift-085.png",
+    "bytes": 26169,
+    "sha256": "d9726a50e82dceff5cf5becb608bad62e8b007dc72dd78f9e9994abaf44d1713"
+  },
+  {
+    "pointer": "src/assets/gift-083.png.asset.json",
+    "file": "public/game-assets/gift-083.png",
+    "bytes": 18068,
+    "sha256": "0e35e253914e5ba8e20caa7034033f117fd83c101cdcd26ace184cff840c3257"
+  },
+  {
+    "pointer": "src/assets/gift-086.png.asset.json",
+    "file": "public/game-assets/gift-086.png",
+    "bytes": 14728,
+    "sha256": "7a0be1fc79a830ba5acac0afbf0a985d6e39ba4b2d659ecfcdbff9f86bef9588"
+  },
+  {
+    "pointer": "src/assets/gift-081.png.asset.json",
+    "file": "public/game-assets/gift-081.png",
+    "bytes": 17038,
+    "sha256": "15f2105f27f80146987082180689b1a60b326e48c5b3e1de135074f4ef0e44d8"
+  },
+  {
+    "pointer": "src/assets/gift-075.png.asset.json",
+    "file": "public/game-assets/gift-075.png",
+    "bytes": 11075,
+    "sha256": "a494b2e5b08fd085866ad89569c45b3f30b25b78d87d1e252081f8f5f7bdf912"
+  },
+  {
+    "pointer": "src/assets/gift-093.png.asset.json",
+    "file": "public/game-assets/gift-093.png",
+    "bytes": 19185,
+    "sha256": "813b3d2f8e4b2338db718a16dcc492aded90f6d02ba1331360a26b691b64d00a"
+  },
+  {
+    "pointer": "src/assets/gift-096.png.asset.json",
+    "file": "public/game-assets/gift-096.png",
+    "bytes": 16149,
+    "sha256": "25be7ef66a45f4eee4bf7f5684a305d92da54090808382af94e1c18c4c44454a"
+  },
+  {
+    "pointer": "src/assets/gift-090.png.asset.json",
+    "file": "public/game-assets/gift-090.png",
+    "bytes": 10939,
+    "sha256": "261e5f6a3e501d4a44fd70e03f07d17c4def3195666d2ddc8b8c5559b084d2c5"
+  },
+  {
+    "pointer": "src/assets/gift-089.png.asset.json",
+    "file": "public/game-assets/gift-089.png",
+    "bytes": 13178,
+    "sha256": "598ffc614b05543a6e173a4e66569c14aa943601b462047b14ca5d232b33d3c3"
+  },
+  {
+    "pointer": "src/assets/gift-097.png.asset.json",
+    "file": "public/game-assets/gift-097.png",
+    "bytes": 16702,
+    "sha256": "38c7bfd8d5dda42b3bf70570b944189dfe29d4e7238e046ec2437a8b9ae8f8f5"
+  },
+  {
+    "pointer": "src/assets/gift-087.png.asset.json",
+    "file": "public/game-assets/gift-087.png",
+    "bytes": 19516,
+    "sha256": "6bca51854a2030a706ea007b7c1832349ee8314077170e243e4df17f51332ffc"
+  },
+  {
+    "pointer": "src/assets/gift-088.png.asset.json",
+    "file": "public/game-assets/gift-088.png",
+    "bytes": 20190,
+    "sha256": "f40179d49ea7387e9f48d6419ece8723c2a6700fc9a08e4f8e22e16e2fa29ec6"
+  },
+  {
+    "pointer": "src/assets/gift-092.png.asset.json",
+    "file": "public/game-assets/gift-092.png",
+    "bytes": 19211,
+    "sha256": "0c75c4de3c497cb961a5ea54c96ca8cc756bf90ed4d8e5415d5b85b0de7b9a2f"
+  },
+  {
+    "pointer": "src/assets/gift-091.png.asset.json",
+    "file": "public/game-assets/gift-091.png",
+    "bytes": 18088,
+    "sha256": "a9afd2e5df42619953d3049734c40a8649690dd6a9276dce9109513df80b9907"
+  },
+  {
+    "pointer": "src/assets/gift-094.png.asset.json",
+    "file": "public/game-assets/gift-094.png",
+    "bytes": 22167,
+    "sha256": "a90e12cd9cb91e3e77e8811e10a42c16541aea8ebcb4bc667155a6169fcbe833"
+  },
+  {
+    "pointer": "src/assets/gift-095.png.asset.json",
+    "file": "public/game-assets/gift-095.png",
+    "bytes": 16558,
+    "sha256": "eea07b639fc1b0cf8230eeb4de2f49ed99ee51a72d851905fd9c051a1bd95cb7"
+  },
+  {
+    "pointer": "src/assets/gift-098.png.asset.json",
+    "file": "public/game-assets/gift-098.png",
+    "bytes": 17257,
+    "sha256": "1f3340af60f0a965db57fb423070c49a5c6f3da2e7990b822d3b761011314829"
+  },
+  {
+    "pointer": "src/assets/gift-110.png.asset.json",
+    "file": "public/game-assets/gift-110.png",
+    "bytes": 8148,
+    "sha256": "ac106d002d220da7323c7688ff6a52f109e6803dd0e0e9c9c4615f633fbcb803"
+  },
+  {
+    "pointer": "src/assets/gift-102.png.asset.json",
+    "file": "public/game-assets/gift-102.png",
+    "bytes": 16636,
+    "sha256": "8829606d4604f48b95633f53833b2156d29eaeb1e07911bf3723edf4db8f4348"
+  },
+  {
+    "pointer": "src/assets/gift-101.png.asset.json",
+    "file": "public/game-assets/gift-101.png",
+    "bytes": 17179,
+    "sha256": "c853e02b5d9735ba7c396e745a81707315973daba0cd5da50f929861f80f4ba1"
+  },
+  {
+    "pointer": "src/assets/gift-109.png.asset.json",
+    "file": "public/game-assets/gift-109.png",
+    "bytes": 7764,
+    "sha256": "23c1fcc0697888ebfe2a481c40b875e86b97de29ccf369c7faf9443f3d0cecb7"
+  },
+  {
+    "pointer": "src/assets/gift-106.png.asset.json",
+    "file": "public/game-assets/gift-106.png",
+    "bytes": 11284,
+    "sha256": "d9da0d7cf14af33d727129f5eacc6705b561925af39ae1d6a929331a55224edd"
+  },
+  {
+    "pointer": "src/assets/gift-103.png.asset.json",
+    "file": "public/game-assets/gift-103.png",
+    "bytes": 16558,
+    "sha256": "081b5bd0fde080d20f3e0bfdc070f7ea9b061cd54e2c7c5673c0ec2bff06d1ff"
+  },
+  {
+    "pointer": "src/assets/gift-107.png.asset.json",
+    "file": "public/game-assets/gift-107.png",
+    "bytes": 10825,
+    "sha256": "b3d41a5f36e772e9c1dd3823218b9bad51f8dad2233d973f98c3b89e37bf5678"
+  },
+  {
+    "pointer": "src/assets/gift-099.png.asset.json",
+    "file": "public/game-assets/gift-099.png",
+    "bytes": 17743,
+    "sha256": "0e7bcaeff53676690c248471c09d38a54e513178ede825c7278fe5ead3e5eaa0"
+  },
+  {
+    "pointer": "src/assets/gift-105.png.asset.json",
+    "file": "public/game-assets/gift-105.png",
+    "bytes": 4668,
+    "sha256": "2d0c2ea95f01c5bc3e0f6ad2306eee7983f92cffccc44a4df20e8cdf765ce064"
+  },
+  {
+    "pointer": "src/assets/gift-104.png.asset.json",
+    "file": "public/game-assets/gift-104.png",
+    "bytes": 15507,
+    "sha256": "02f1c1f759b4bf28b062730a6b443b196c16335cfb62174e40d9731aa93b903e"
+  },
+  {
+    "pointer": "src/assets/gift-100.png.asset.json",
+    "file": "public/game-assets/gift-100.png",
+    "bytes": 17086,
+    "sha256": "01a3294b8dfa7d1fb09e2f4758a3a18ee97ebf45a00f8e26348871ca2a27b206"
+  },
+  {
+    "pointer": "src/assets/gift-108.png.asset.json",
+    "file": "public/game-assets/gift-108.png",
+    "bytes": 10017,
+    "sha256": "bf6dcc9dbe0229faf4fe608a52e5c58660fcfa0395eb882de4e1d4e06c4c86ac"
+  },
+  {
+    "pointer": "src/assets/gift-115.png.asset.json",
+    "file": "public/game-assets/gift-115.png",
+    "bytes": 11018,
+    "sha256": "3a4f3c95bab97247cf0636c64bbe6f9ae6121cd1ce8641124462729f9f17fae7"
+  },
+  {
+    "pointer": "src/assets/gift-120.png.asset.json",
+    "file": "public/game-assets/gift-120.png",
+    "bytes": 8882,
+    "sha256": "67c68ca1943d0078cc88cddcb1674058333ac38619bf5d77640e9ca1577ca304"
+  },
+  {
+    "pointer": "src/assets/gift-118.png.asset.json",
+    "file": "public/game-assets/gift-118.png",
+    "bytes": 13058,
+    "sha256": "6ec870c47345d6d4fe424621a1e43c0f5d489907e72f215dd2c00b88a93f9ea5"
+  },
+  {
+    "pointer": "src/assets/gift-113.png.asset.json",
+    "file": "public/game-assets/gift-113.png",
+    "bytes": 10457,
+    "sha256": "16b3c3ead0be8566062327bdbab47e7b158b62e47611f7f9e5b52fb5f39db9e4"
+  },
+  {
+    "pointer": "src/assets/gift-112.png.asset.json",
+    "file": "public/game-assets/gift-112.png",
+    "bytes": 9733,
+    "sha256": "afff6c5fdaead3e78dcdbcc4389d86608278916e1e42c56c43f1a5fe568e86bd"
+  },
+  {
+    "pointer": "src/assets/gift-114.png.asset.json",
+    "file": "public/game-assets/gift-114.png",
+    "bytes": 7857,
+    "sha256": "940ce0ae46044e64b93a065199aecb5bdf89a4403af1525a3065071c2962c867"
+  },
+  {
+    "pointer": "src/assets/gift-121.png.asset.json",
+    "file": "public/game-assets/gift-121.png",
+    "bytes": 10696,
+    "sha256": "2dfaf0e933498530eeec680c44cdb7b091150f5b3ee8fc535a021aaf159eb5e4"
+  },
+  {
+    "pointer": "src/assets/gift-119.png.asset.json",
+    "file": "public/game-assets/gift-119.png",
+    "bytes": 10328,
+    "sha256": "e544e47842d053fdc267e61b9f4c0ca11f976319328fcf73555634a6927f93e9"
+  },
+  {
+    "pointer": "src/assets/gift-111.png.asset.json",
+    "file": "public/game-assets/gift-111.png",
+    "bytes": 8801,
+    "sha256": "9248272e2ee6d640960ca24f396744645bfb7722da87a27113f427df9862f156"
+  },
+  {
+    "pointer": "src/assets/gift-117.png.asset.json",
+    "file": "public/game-assets/gift-117.png",
+    "bytes": 10201,
+    "sha256": "07b24c5549c4f5de5f3e1b8fb71e5230eb0568f17757a6fb80c6bbd8b23b8bff"
+  },
+  {
+    "pointer": "src/assets/gift-122.png.asset.json",
+    "file": "public/game-assets/gift-122.png",
+    "bytes": 7395,
+    "sha256": "1448d0124826e8d31e37e2b44b6f2aea06dda8ea2562230edb211d8f4af08c25"
+  },
+  {
+    "pointer": "src/assets/gift-116.png.asset.json",
+    "file": "public/game-assets/gift-116.png",
+    "bytes": 9804,
+    "sha256": "9fce1d71afda78de939b42877ac43ec7295f7cae46fffccec61eec71e70f94bb"
+  },
+  {
+    "pointer": "src/assets/gift-124.png.asset.json",
+    "file": "public/game-assets/gift-124.png",
+    "bytes": 7574,
+    "sha256": "8492112983fa044815b206a08b900ff36c64c7132464c6f6c1687a4a270c87e1"
+  },
+  {
+    "pointer": "src/assets/gift-131.png.asset.json",
+    "file": "public/game-assets/gift-131.png",
+    "bytes": 7747,
+    "sha256": "f3a000cfed87a111467a5a0de94596b99e3c23a4cdddc5f1cdb304b00fceef90"
+  },
+  {
+    "pointer": "src/assets/gift-125.png.asset.json",
+    "file": "public/game-assets/gift-125.png",
+    "bytes": 7969,
+    "sha256": "b284658322e739a4f5734ed56694e05401fb65dc17c04c921581ed4e68f497db"
+  },
+  {
+    "pointer": "src/assets/gift-133.png.asset.json",
+    "file": "public/game-assets/gift-133.png",
+    "bytes": 7480,
+    "sha256": "aba9fdffc224450dad4da26cc96845003e54572f5724be44b2f0baeff8921e67"
+  },
+  {
+    "pointer": "src/assets/gift-127.png.asset.json",
+    "file": "public/game-assets/gift-127.png",
+    "bytes": 6732,
+    "sha256": "25f3cbc9587cb101827db87241779142849b7f7fa049e84b1d8ce0e4a2990fc3"
+  },
+  {
+    "pointer": "src/assets/gift-130.png.asset.json",
+    "file": "public/game-assets/gift-130.png",
+    "bytes": 9420,
+    "sha256": "620c324e63791f6665b0b8a394895d671f4ff4b798d589e60d7fb905facacf29"
+  },
+  {
+    "pointer": "src/assets/gift-134.png.asset.json",
+    "file": "public/game-assets/gift-134.png",
+    "bytes": 6017,
+    "sha256": "7e37b76a3fb8a48d8705951de171be1c4156e17122468284357b87c6403aa4dc"
+  },
+  {
+    "pointer": "src/assets/gift-128.png.asset.json",
+    "file": "public/game-assets/gift-128.png",
+    "bytes": 8034,
+    "sha256": "f22b96b6e6cbb9c6ac68364b78c74ce5b65ca65c2b6f39d9ea99d8a5caf3cd01"
+  },
+  {
+    "pointer": "src/assets/gift-129.png.asset.json",
+    "file": "public/game-assets/gift-129.png",
+    "bytes": 10951,
+    "sha256": "659fec853103da427d0d3262c1434ce246816b98538767124c3ef3efe6faf5fd"
+  },
+  {
+    "pointer": "src/assets/gift-126.png.asset.json",
+    "file": "public/game-assets/gift-126.png",
+    "bytes": 9211,
+    "sha256": "5ffa4d65bd6d4e5ad659a3acd0170193a870b5455e944b2ae45d92b7c026bbf5"
+  },
+  {
+    "pointer": "src/assets/gift-132.png.asset.json",
+    "file": "public/game-assets/gift-132.png",
+    "bytes": 5305,
+    "sha256": "80a72c20a0b2bcd3379033a2eb9a445aaf24836377314d767a32eee7b114bb31"
+  },
+  {
+    "pointer": "src/assets/gift-123.png.asset.json",
+    "file": "public/game-assets/gift-123.png",
+    "bytes": 8808,
+    "sha256": "b3729e529b6f1bb1fefb8626413586d19846c58a1c4d426199c639307e935474"
+  },
+  {
+    "pointer": "src/assets/profile-clean-photo.png.asset.json",
+    "file": "public/game-assets/profile-clean-photo.png",
+    "bytes": 448761,
+    "sha256": "9f89ac9b1168e6b87a8fb182523130aed0c3561ff3dfcd8cd35eee6b2fdc1e06"
+  },
+  {
+    "pointer": "src/assets/league-admire.png.asset.json",
+    "file": "public/game-assets/league-admire.png",
+    "bytes": 3187,
+    "sha256": "11995c36a32b2763d4c14b4ea3595c2b4ddb7d30d2a01237171ba8cffe5eb05d"
+  },
+  {
+    "pointer": "src/assets/league-demote.png.asset.json",
+    "file": "public/game-assets/league-demote.png",
+    "bytes": 27533,
+    "sha256": "bc0fd053019559a1e9250f44b875e83b95e24ea74776e747a0e32d3904cfbe18"
+  },
+  {
+    "pointer": "src/assets/league-gift.png.asset.json",
+    "file": "public/game-assets/league-gift.png",
+    "bytes": 3496,
+    "sha256": "54ce23b1e05556c52ea71c79ed99e0b5e1cafb4856fa6d90fffea405262c11a6"
+  },
+  {
+    "pointer": "src/assets/league-iron.png.asset.json",
+    "file": "public/game-assets/league-iron.png",
+    "bytes": 39262,
+    "sha256": "f82e0cce1df70abbe8c0aa115c4204fb09347f02468ac709a1b1fb92bdbdb814"
+  },
+  {
+    "pointer": "src/assets/league-kiss.png.asset.json",
+    "file": "public/game-assets/league-kiss.png",
+    "bytes": 3892,
+    "sha256": "f07fa84f3907b6c4ef150747f7efef112f6bdafc276226bdbd8525f4197c2c04"
+  },
+  {
+    "pointer": "src/assets/league-music.png.asset.json",
+    "file": "public/game-assets/league-music.png",
+    "bytes": 2451,
+    "sha256": "23e8b6133ab6266d400bb358ecccab66587662eca1f85c0a144a2580c0407be9"
+  },
+  {
+    "pointer": "src/assets/league-promote.png.asset.json",
+    "file": "public/game-assets/league-promote.png",
+    "bytes": 30463,
+    "sha256": "63c39d9106a62509bb3a40955f532cefc84b0612def1c0021f2e0360ee233955"
+  },
+  {
+    "pointer": "src/assets/league-rules.png.asset.json",
+    "file": "public/game-assets/league-rules.png",
+    "bytes": 43328,
+    "sha256": "a877dba17ebbf1ff878652bffd752327f51f2c6f69939d15cdbcc49b6a9852b1"
+  },
+  {
+    "pointer": "src/assets/menu-achievements.png.asset.json",
+    "file": "public/game-assets/menu-achievements.png",
+    "bytes": 5619,
+    "sha256": "1f5fa22be3084120e6eb174ac517b7fc84d764557d66b8ee6f69de22ee4485d9"
+  },
+  {
+    "pointer": "src/assets/menu-ratings.png.asset.json",
+    "file": "public/game-assets/menu-ratings.png",
+    "bytes": 3160,
+    "sha256": "da4725dc7ffcf855f894f35136b2867ccb2707a5808b9f7ef68a234cb3952f95"
+  },
+  {
+    "pointer": "src/assets/menu-bottle.png.asset.json",
+    "file": "public/game-assets/menu-bottle.png",
+    "bytes": 4751,
+    "sha256": "d1b3742bfd9427c4529c8d73d4fcd64baf5c19e752bc9ba2e2c8dc6251a3c7e4"
+  },
+  {
+    "pointer": "src/assets/menu-styling.png.asset.json",
+    "file": "public/game-assets/menu-styling.png",
+    "bytes": 6112,
+    "sha256": "f7b51a8f56216df7e133ce524a4f746d1384a4dee20fc8e5a8766f264252cd0a"
+  },
+  {
+    "pointer": "src/assets/menu-boosters.png.asset.json",
+    "file": "public/game-assets/menu-boosters.png",
+    "bytes": 6514,
+    "sha256": "a6dd4b4059411888ba1842cf14eb2753155123a8f3752350dfb72ef42e0e2478"
+  },
+  {
+    "pointer": "src/assets/settings-sound.png.asset.json",
+    "file": "public/game-assets/settings-sound.png",
+    "bytes": 2978,
+    "sha256": "0f0b1b93cd3db9852ed5d440c14ca426d98cda3b091b04ba4183ef198c48d274"
+  },
+  {
+    "pointer": "src/assets/settings-music.png.asset.json",
+    "file": "public/game-assets/settings-music.png",
+    "bytes": 3229,
+    "sha256": "ca8632f6b6140df6359ca6f86cf62c11242ec01cc6cf341ff6e3dac443cb5eb0"
+  },
+  {
+    "pointer": "src/assets/settings-invite.png.asset.json",
+    "file": "public/game-assets/settings-invite.png",
+    "bytes": 3677,
+    "sha256": "7c5e19aee91abbde93840618a1545fcf293a2b006d8cf4e5985af27f6fe78698"
+  },
+  {
+    "pointer": "src/assets/settings-friends.png.asset.json",
+    "file": "public/game-assets/settings-friends.png",
+    "bytes": 2886,
+    "sha256": "2de25f362e0d9c5434659c473907ec40cc2359f0ba2d1f06f0d7108589002113"
+  },
+  {
+    "pointer": "src/assets/settings-contact.png.asset.json",
+    "file": "public/game-assets/settings-contact.png",
+    "bytes": 2633,
+    "sha256": "0c0913f8a7c5c8833135e105355df4360ebf22438e5adc03b410f5006b1a9d14"
+  }
+]
